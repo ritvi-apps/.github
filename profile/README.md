@@ -1,6 +1,6 @@
 ## Ritvi Apps
 
-Small, focused apps for India. Mostly React Native and Expo, with RevenueCat for
+Small, focused apps. Mostly React Native and Expo, with RevenueCat for
 purchases and Firebase on the backend.
 
 | App | What it does | Android | iOS | Web |
@@ -11,8 +11,8 @@ purchases and Firebase on the backend.
 | **Imposter: Find the Liar** | Social deduction for 3–20 people on one phone. Every word has a hand-written one-word hint. No ads, no subscription, ever. | 🧪 **[Join the beta](https://play.google.com/apps/testing/com.ritvi.imposter)** | 🔒 Internal only | – |
 | **Aakalan** (आकलन) | Your expenses and everyone else's on one ledger. Split with friends and flatmates, settle over UPI. | 🔒 Closed testing | 🧪 **[Join the beta](https://testflight.apple.com/join/S45tHrsf)** | – |
 | **AskCal** | AI calorie counter that admits what it can't see. Marks each value Seen, Guessed or Unknown rather than inventing one number. | 🟡 In review | ⚪ Not built yet | – |
-| **DwarSeva — Property** | Map-based property listings for India, with a ₹5-per-action friction filter. Every listing human-verified. | 🔨 In design | 🔨 In design | – |
-| **Plan-Kid** | Parenthood journey app for couples in India — pre-decision through parenting. | 🔨 In design | 🔨 In design | – |
+| **DwarSeva — Property** | Map-based property listings, with a ₹5-per-action friction filter. Every listing human-verified. | 🔨 In design | 🔨 In design | – |
+| **Plan-Kid** | Parenthood journey app for couples — pre-decision through parenting. | 🔨 In design | 🔨 In design | – |
 
 <sub>🟢 live · 🧪 public beta, anyone can join · 🔒 restricted testing · 🟡 awaiting store review · ⚪ not built · 🔨 in development</sub>
 
